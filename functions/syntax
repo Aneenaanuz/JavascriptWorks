@@ -1,0 +1,12 @@
+/* functions
+   ---------
+function functionname(arg1,arg2){
+    statements
+}
+
+calling
+--------
+
+functionname(arg1 value,arg2 value);
+
+*/
